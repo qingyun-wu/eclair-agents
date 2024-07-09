@@ -7,6 +7,7 @@ data/vldb_experiments
 data/hospital_data
 data/hospital_demo
 outputs/
+data/*
 
 # C extensions
 *.so
